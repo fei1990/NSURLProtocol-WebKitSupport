@@ -4,6 +4,11 @@
 
 [让 WKWebView 支持 NSURLProtocol](https://blog.yeatse.com/2016/10/26/support-nsurlprotocol-in-wkwebview/)
 
+[WKWebView的那些坑](https://toutiao.io/posts/yy19e7/preview)
+
+[关于WKWebView的post请求丢失body问题的解决方案
+](https://www.jianshu.com/p/4dfc80ca7db2)
+
 This example project shows a way to use NSURLProtocol with WKWebView, which was not possible before.
 
 # Screenshot
